@@ -1,4 +1,5 @@
 # Taking input from user and printing it 
+# result of input() is always str  
 name = input("name: ")
 print(name)
 
