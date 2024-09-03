@@ -10,4 +10,5 @@ i = 0
 while  i < len(numTuple):
     if(num == numTuple[i]):
         print("Match found at", i+1 , "position")
+        break
     i += 1
