@@ -8,9 +8,17 @@
 # func call
 # fun(parm1 , parm 2)
 
-def sum(a,b):
+# func definition
+def sum(a,b): # parameters
     s = a + b
     return s 
 
-print(sum(2,3))
+print(sum(2,3)) # func call ; arugements
 
+
+
+def print_hello():
+    print("hello")
+
+output = sum(2,3)
+print(output)
