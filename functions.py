@@ -21,4 +21,29 @@ def print_hello():
     print("hello")
 
 output = sum(2,3)
-print(output)
+print(output) # none
+
+
+
+# there are 2 types 0f func in python
+
+# built in func 
+ # print()
+ # len()
+ # type()
+ # range()
+ 
+ 
+# user defined func 
+# written by user
+
+
+# default parameter
+# assigning  default value to parameter which is used when no parameter is passed
+
+ 
+def cal_prod(a =1 , b =2):
+    print(a*b)
+    return a * b
+
+cal_prod()
