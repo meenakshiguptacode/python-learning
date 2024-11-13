@@ -52,6 +52,18 @@ Each file is designed to focus on a specific programming concept, providing exam
    - List comprehensions, dictionary comprehensions
    - Sorting, lambda functions, map, filter, and reduce
 
+
+## Contribution Guidelines
+  We welcome contributions from the community to help improve this repository. Here's how you can contribute:
+     Fork the repository.
+     Create a new branch for your feature or bug fix:
+       git checkout -b feature-name
+     Make your changes and commit them:
+      git commit -m "Description of changes"
+     Push to your forked repository and open a pull request:
+      git push origin feature-name
+     We appreciate all contributions, whether they're bug fixes, improvements, or new learning modules!
+
 ## Prerequisites
 Make sure you have the following installed before working with this repository:
 - **Python 3.x**: [Install Python](https://www.python.org/downloads/)
